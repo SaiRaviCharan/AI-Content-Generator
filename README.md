@@ -4,7 +4,7 @@
 
 **Transform ideas into content. In seconds.**
 
-[Live Demo](https://your-demo-link.vercel.app) · [Report Bug](https://github.com/yourusername/contentgen-ai/issues) · [Request Feature](https://github.com/yourusername/contentgen-ai/issues)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-9333ea?style=for-the-badge)](https://contentgenaipowered.vercel.app) · [Report Bug](https://github.com/SaiRaviCharan/AI-Content-Generator/issues) · [Request Feature](https://github.com/SaiRaviCharan/AI-Content-Generator/issues)
 
 ---
 
